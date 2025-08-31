@@ -2,10 +2,6 @@
 
 Aplikasi desktop sederhana untuk memvisualisasikan efek **filter gambar** (low-pass & high-pass) di **domain frekuensi** menggunakan **Fast Fourier Transform (FFT)**.  
 Proyek ini dibuat sebagai **tugas akhir mata kuliah Pengolahan Sinyal Digital (PSD).**
-
-![Screenshot Aplikasi](https://github.com/nama-user-anda/nama-repo-anda/blob/main/screenshot.png)  
-*(Ganti URL di atas dengan link screenshot aplikasi Anda!)*
-
 ---
 
 ## 📜 Deskripsi Proyek
