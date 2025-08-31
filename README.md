@@ -38,8 +38,7 @@ Antarmuka pengguna dibangun dengan **Tkinter**, sehingga aplikasi tetap **intera
 
 ### 1. Clone Repositori
 ```bash
-git clone https://github.com/nama-user-anda/nama-repo-anda.git
-cd nama-repo-anda
+git clone https://github.com/cardinaldeacre/Image-Filtering-with-FFT.git
 ```
 
 ### 2. Instal Dependensi
