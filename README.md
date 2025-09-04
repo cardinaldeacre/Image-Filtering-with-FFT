@@ -14,6 +14,9 @@ Aplikasi ini memungkinkan pengguna untuk:
 Proses filtering dilakukan sepenuhnya di domain frekuensi menggunakan **FFT (Fast Fourier Transform)** dari NumPy.  
 Antarmuka pengguna dibangun dengan **Tkinter**, sehingga aplikasi tetap **interaktif dan mudah digunakan.**
 
+Lihat demo proyek kami di YouTube:
+[Tonton Video Demo di Sini!]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/4z8N7fNxNk8))
+
 ---
 
 ## ✨ Fitur Utama
